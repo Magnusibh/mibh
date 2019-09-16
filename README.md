@@ -3,3 +3,5 @@
 
 
 Repository containing small school related or sparetime projects 
+
+\hline
