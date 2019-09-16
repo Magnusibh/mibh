@@ -6,6 +6,7 @@ Repository containing small school related or sparetime projects mostly related 
 
 # Projects:
 <hr>
+
 ### Stock market analysis
 Two part project;
 
@@ -15,12 +16,14 @@ Trying to examine the passing stock market data through "low pass" filter allows
 #### 2: Old stock market data vs. recent data
 The stock market is nowadays thought to be random and follows a random walk hypothesis, but loo
 <hr>
+
 ### Gender,Race and Age prediction Multi-task Learning
 
 Traning a deep convulutional network on images from UTKFaces.
 Images Augmentation is used to handle the imbalanced data set.
 
 <hr> 
+
 ### Uncovering the black box of machine learning (Master's thesis) 
 
 Introductory problem:
